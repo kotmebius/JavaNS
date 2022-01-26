@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="body" alignment="center" style="-fx-font-size: 16px;" styleClass="lightBody" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Client.Controller">
+    <HBox fx:id="upperPanel">
+        <TextField fx:id="loginField" promptText="Логин" HBox.hgrow="ALWAYS" />
+        <PasswordField fx:id="passwordField" onAction="#tryToAuth" promptText="Пароль" />
+        <Button onAction="#tryToAuth" text="Авторизоваться" />
+    </HBox>
+    <HBox VBox.vgrow="ALWAYS">
+        <VBox HBox.hgrow="ALWAYS">
+            <Button fx:id="chooseFile" text="Выбрать файл" visible="false" wrapText="false" onAction="#chooseFile"/>
+            <TextField fx:id="filePath" promptText="Файл не загружен" visible="false"  HBox.hgrow="ALWAYS" />
+            <Button fx:id="sendFileButton" text="Отправить файл" visible="false" wrapText="false" onAction="#readyToSend"/>
+            <TextField fx:id="MessageLabel" text="Введите логин и пароль"/>
+
+        </VBox>
+    </HBox>
+</VBox>
