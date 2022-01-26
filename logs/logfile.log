@@ -1,0 +1,669 @@
+INFO  2022-01-24 19:15:55 [main] sample.server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 19:27:20 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 20:29:37 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 20:29:54 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 20:30:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:108) - Client: /auth login1 pass1
+ERROR 2022-01-24 20:30:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 20:30:59 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 20:35:29 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 20:35:46 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 20:36:07 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 20:36:24 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 20:36:33 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 21:17:56 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 21:29:34 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 21:30:12 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 21:30:42 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 21:31:06 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 21:40:58 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 21:41:05 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 21:41:19 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 21:53:32 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+ERROR 2022-01-24 21:53:50 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:112) - Connection reset
+INFO  2022-01-24 22:37:17 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 22:37:33 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 22:39:38 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 22:39:44 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 22:40:04 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 22:43:21 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 22:43:26 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 22:43:44 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 22:43:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:44) - 5
+INFO  2022-01-24 22:43:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:46) - 4
+INFO  2022-01-24 22:46:06 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 22:46:23 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 22:46:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:44) - 5
+INFO  2022-01-24 22:46:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:46) - 4
+INFO  2022-01-24 23:12:33 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 23:12:48 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 23:12:48 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:45) - 6
+INFO  2022-01-24 23:12:48 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:47) - 4
+INFO  2022-01-24 23:12:48 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:59) - login1 106438208
+INFO  2022-01-24 23:22:48 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 23:23:09 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 23:23:09 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:53) - 6
+INFO  2022-01-24 23:23:09 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 4
+INFO  2022-01-24 23:23:09 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:67) - login1 106438208
+ERROR 2022-01-24 23:23:09 [pool-2-thread-1] Server.AuthService (AuthService.java:44) - column 3 out of bounds [1,1]
+INFO  2022-01-24 23:23:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:53) - 6
+INFO  2022-01-24 23:23:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 4
+INFO  2022-01-24 23:23:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:67) - login1 106438208
+ERROR 2022-01-24 23:23:22 [pool-2-thread-1] Server.AuthService (AuthService.java:44) - column 3 out of bounds [1,1]
+INFO  2022-01-24 23:24:05 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-24 23:24:18 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-24 23:24:18 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:53) - 6
+INFO  2022-01-24 23:24:18 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 4
+INFO  2022-01-24 23:24:18 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:67) - login1 3433489
+INFO  2022-01-24 23:24:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:53) - 6
+INFO  2022-01-24 23:24:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 4
+INFO  2022-01-24 23:24:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:67) - login1 106438208
+ERROR 2022-01-24 23:24:31 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:79) - Connection reset
+INFO  2022-01-25 00:16:13 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:16:28 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:16:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:16:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:16:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+ERROR 2022-01-25 00:16:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:103) - null
+INFO  2022-01-25 00:16:36 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:16:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:16:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:16:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+ERROR 2022-01-25 00:16:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:103) - null
+INFO  2022-01-25 00:18:59 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:18:59 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:55) - 0
+INFO  2022-01-25 00:18:59 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:18:59 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:69) -  0
+INFO  2022-01-25 00:19:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:19:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:19:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+ERROR 2022-01-25 00:19:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:103) - null
+INFO  2022-01-25 00:19:42 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:20:05 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:20:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:20:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:20:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+ERROR 2022-01-25 00:21:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:103) - null
+INFO  2022-01-25 00:21:47 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:22:42 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:22:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:22:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:22:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+ERROR 2022-01-25 00:26:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:103) - null
+INFO  2022-01-25 00:27:10 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:27:26 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:27:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:27:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:27:37 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+INFO  2022-01-25 00:29:34 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:29:49 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:29:49 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:29:49 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:29:49 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 3433489
+INFO  2022-01-25 00:29:58 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:29:58 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:29:58 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+INFO  2022-01-25 00:31:41 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:31:54 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:31:54 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:31:54 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:31:54 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+INFO  2022-01-25 00:32:01 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:88) - 123.dat
+INFO  2022-01-25 00:32:01 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:91) - 2179
+INFO  2022-01-25 00:32:01 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 123.dat
+INFO  2022-01-25 00:36:02 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:36:14 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+INFO  2022-01-25 00:36:21 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:88) - scale_1200 (4).webp
+INFO  2022-01-25 00:36:21 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:92) - 86194 Свободного места на диске: 0
+INFO  2022-01-25 00:36:21 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - scale_1200 (4).webp Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\scale_1200 (4).webp
+ERROR 2022-01-25 00:39:24 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:106) - Connection reset by peer: socket write error
+INFO  2022-01-25 00:43:29 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:43:40 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:43:40 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:43:40 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:43:40 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+INFO  2022-01-25 00:43:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:88) - 3. Аналитическая записка.doc
+INFO  2022-01-25 00:43:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:92) - 34304 Свободного места на диске: 0
+INFO  2022-01-25 00:47:23 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:47:38 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:47:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:55) - 6
+INFO  2022-01-25 00:47:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 4
+INFO  2022-01-25 00:47:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:69) - login1 106438208
+INFO  2022-01-25 00:47:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:88) - 2022-01-21_22-21-40.png
+INFO  2022-01-25 00:47:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:92) - 580878 Свободного места на диске: 0
+INFO  2022-01-25 00:47:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2022-01-21_22-21-40.png Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\2022-01-21_22-21-40.png
+INFO  2022-01-25 00:53:07 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:53:22 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:53:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 6
+INFO  2022-01-25 00:53:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:59) - 4
+INFO  2022-01-25 00:53:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:71) - login1 106438208
+INFO  2022-01-25 00:53:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:90) - Тест 2 не сдан.docx
+ERROR 2022-01-25 00:53:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:109) - Тест 2 не сдан.docx
+INFO  2022-01-25 00:53:55 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:53:55 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 6
+INFO  2022-01-25 00:53:55 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:59) - 4
+INFO  2022-01-25 00:53:55 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:71) - login1 106438208
+INFO  2022-01-25 00:54:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:90) - Браузеры.docx
+ERROR 2022-01-25 00:54:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:109) - Браузеры.docx
+INFO  2022-01-25 00:55:05 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:55:15 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:55:15 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 6
+INFO  2022-01-25 00:55:15 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:59) - 4
+INFO  2022-01-25 00:55:15 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:71) - login1 106438208
+INFO  2022-01-25 00:55:19 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:90) - Браузеры.docx
+ERROR 2022-01-25 00:56:30 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:109) - Браузеры.docx
+INFO  2022-01-25 00:56:36 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 00:56:43 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 00:56:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 6
+INFO  2022-01-25 00:56:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:59) - 4
+INFO  2022-01-25 00:56:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:71) - login1 106438208
+INFO  2022-01-25 00:56:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:90) - Браузеры.docx
+INFO  2022-01-25 00:56:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - 51568 Свободного места на диске: 0
+INFO  2022-01-25 00:56:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:95) - Браузеры.docx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Браузеры.docx
+ERROR 2022-01-25 00:56:54 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:108) - Connection reset
+INFO  2022-01-25 01:00:42 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 01:01:00 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 01:01:00 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:57) - 6
+INFO  2022-01-25 01:01:00 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:59) - 4
+INFO  2022-01-25 01:01:00 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:71) - login1 106438208
+INFO  2022-01-25 01:01:06 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:90) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 01:01:06 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - 58097808 Свободного места на диске: 0
+INFO  2022-01-25 01:01:06 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:95) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-25 01:03:14 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 01:03:29 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 01:03:29 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 01:03:29 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 01:03:29 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - login1 106438208
+INFO  2022-01-25 01:03:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:91) - scale_1200 (4).webp
+INFO  2022-01-25 01:03:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:95) - 86194 Свободного места на диске: 0
+INFO  2022-01-25 01:03:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:96) - scale_1200 (4).webp Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\scale_1200 (4).webp
+INFO  2022-01-25 01:03:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:91) - scale_1200 (4).webp
+INFO  2022-01-25 01:03:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:95) - 86194 Свободного места на диске: 197127438336
+INFO  2022-01-25 01:03:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:96) - scale_1200 (4).webp Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\scale_1200 (4).webp
+INFO  2022-01-25 01:04:01 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 01:04:01 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 01:04:01 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 01:04:01 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - login1 106438208
+INFO  2022-01-25 01:04:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:91) - Шри-ланка.xlsx
+INFO  2022-01-25 01:04:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:95) - 9028 Свободного места на диске: 0
+INFO  2022-01-25 01:04:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:96) - Шри-ланка.xlsx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Шри-ланка.xlsx
+INFO  2022-01-25 01:04:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:91) - Шри-ланка.xlsx
+INFO  2022-01-25 01:04:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:95) - 9028 Свободного места на диске: 197127438336
+INFO  2022-01-25 01:04:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:96) - Шри-ланка.xlsx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Шри-ланка.xlsx
+ERROR 2022-01-25 01:04:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:38:21 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 18:38:37 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:38:37 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 18:38:37 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:38:37 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - login1 1568
+ERROR 2022-01-25 18:39:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:39:50 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:39:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 18:39:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:39:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - login1 3433489
+INFO  2022-01-25 18:42:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 18:42:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:42:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - login1 106438208
+ERROR 2022-01-25 18:42:52 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:43:44 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:43:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 2
+INFO  2022-01-25 18:43:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:43:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - lo 0
+INFO  2022-01-25 18:43:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 18:43:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:43:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:72) - login1 106438208
+ERROR 2022-01-25 18:43:56 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:47:51 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:47:51 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 2
+INFO  2022-01-25 18:47:51 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:47:51 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:72) - 11 0
+ERROR 2022-01-25 18:49:07 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:49:15 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:49:15 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 1
+INFO  2022-01-25 18:49:15 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:49:15 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:72) - 1 0
+ERROR 2022-01-25 18:49:23 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:52:12 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:52:12 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:58) - 1
+INFO  2022-01-25 18:52:12 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:52:12 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:72) - j 0
+INFO  2022-01-25 18:52:15 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:58) - 1
+INFO  2022-01-25 18:52:15 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:52:15 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:72) - g 0
+ERROR 2022-01-25 18:52:19 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 18:52:37 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:52:37 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:58) - 1
+INFO  2022-01-25 18:52:37 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:52:37 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:72) - 3 0
+ERROR 2022-01-25 18:52:37 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:115) - null
+INFO  2022-01-25 18:59:37 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 18:59:37 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:58) - 1
+INFO  2022-01-25 18:59:37 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:59:37 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:72) - l 0
+INFO  2022-01-25 18:59:45 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 18:59:45 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:59:45 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:72) - Login1 106438208
+INFO  2022-01-25 18:59:54 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 18:59:54 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 18:59:54 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:72) - login1 106438208
+ERROR 2022-01-25 19:00:09 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 19:00:33 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:00:33 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:58) - 6
+INFO  2022-01-25 19:00:33 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:60) - 4
+INFO  2022-01-25 19:00:33 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:72) - login1 106438208
+INFO  2022-01-25 19:00:39 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:91) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:00:39 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:95) - 58097808 Свободного места на диске: 0
+INFO  2022-01-25 19:00:39 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:96) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:00:40 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:91) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:00:40 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:95) - 58097808 Свободного места на диске: 197135892480
+INFO  2022-01-25 19:00:40 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:96) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+ERROR 2022-01-25 19:00:44 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:115) - Connection reset
+INFO  2022-01-25 19:26:55 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:27:16 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:27:16 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:27:16 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:27:16 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:27:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:27:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 0
+INFO  2022-01-25 19:27:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:29:10 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:29:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:29:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:29:10 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:29:24 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:89) - Браузеры.docx
+INFO  2022-01-25 19:29:24 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:93) - 51568 Свободного места на диске: 0
+INFO  2022-01-25 19:29:24 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:94) - Браузеры.docx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Браузеры.docx
+INFO  2022-01-25 19:29:24 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:56) - -75
+INFO  2022-01-25 19:29:24 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 119
+INFO  2022-01-25 19:30:18 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:30:35 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:30:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:30:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:30:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:30:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:30:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 0
+INFO  2022-01-25 19:30:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:30:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - �{�
+INFO  2022-01-25 19:30:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 1779170540958879241 Свободного места на диске: 0
+INFO  2022-01-25 19:30:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - �{� Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\�{�
+ERROR 2022-01-25 19:30:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:120) - Синтаксическая ошибка в имени файла, имени папки или метке тома
+INFO  2022-01-25 19:32:17 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:32:39 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:32:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:32:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:32:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:32:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:32:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 0
+INFO  2022-01-25 19:32:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-25 19:35:33 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - -45
+INFO  2022-01-25 19:35:33 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 104
+INFO  2022-01-25 19:37:06 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:37:13 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:37:13 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:37:13 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:37:13 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:37:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom.txt
+INFO  2022-01-25 19:37:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 972 Свободного места на диске: 0
+INFO  2022-01-25 19:37:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom.txt
+INFO  2022-01-25 19:37:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Файл relkom.txt получен
+INFO  2022-01-25 19:42:24 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:42:25 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:42:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:42:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:42:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:43:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - Шри-ланка.xlsx
+INFO  2022-01-25 19:43:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 9028 Свободного места на диске: 0
+INFO  2022-01-25 19:43:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - Шри-ланка.xlsx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Шри-ланка.xlsx
+INFO  2022-01-25 19:43:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Файл Шри-ланка.xlsx получен
+INFO  2022-01-25 19:44:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - ��|J<0����S���|����F�N��仸	
+INFO  2022-01-25 19:44:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 3981455526095724890 Свободного места на диске: 0
+INFO  2022-01-25 19:44:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - ��|J<0����S���|����F�N��仸	 Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\��|J<0����S���|����F�N��仸	
+ERROR 2022-01-25 19:44:28 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Синтаксическая ошибка в имени файла, имени папки или метке тома
+INFO  2022-01-25 19:49:32 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:50:33 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:50:41 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 19:50:59 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:50:59 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:50:59 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:50:59 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:51:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - 
+relkom.txt      ���
+INFO  2022-01-25 19:51:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - -1952894356517740303 Свободного места на диске: 0
+INFO  2022-01-25 19:51:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - 
+relkom.txt      ��� Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\
+relkom.txt      ���
+ERROR 2022-01-25 19:51:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:122) - Invalid file path
+INFO  2022-01-25 19:51:43 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 19:51:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 19:51:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 19:51:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 19:51:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom.txt
+INFO  2022-01-25 19:51:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 972 Свободного места на диске: 0
+INFO  2022-01-25 19:51:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom.txt
+INFO  2022-01-25 19:51:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Файл relkom.txt получен
+INFO  2022-01-25 19:52:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - Шри-ланка.xlsx
+INFO  2022-01-25 19:52:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 9028 Свободного места на диске: 0
+INFO  2022-01-25 19:52:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - Шри-ланка.xlsx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Шри-ланка.xlsx
+INFO  2022-01-25 21:20:53 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:21:04 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:21:04 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:21:04 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:21:04 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:21:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - Для кота.xlsx
+INFO  2022-01-25 21:21:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 10299 Свободного места на диске: 0
+INFO  2022-01-25 21:21:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - Для кота.xlsx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Для кота.xlsx
+INFO  2022-01-25 21:22:11 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:22:35 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:22:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:22:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:22:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:22:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-25 21:22:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 0
+INFO  2022-01-25 21:22:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-25 21:24:06 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:24:07 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:24:08 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:24:08 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:24:28 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:24:50 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:24:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:24:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:24:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:25:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - Шри-ланка.xlsx
+INFO  2022-01-25 21:25:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 9028 Свободного места на диске: 0
+INFO  2022-01-25 21:25:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - Шри-ланка.xlsx Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Шри-ланка.xlsx
+INFO  2022-01-25 21:26:15 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:26:31 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:26:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:26:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:26:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:26:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom.txt
+INFO  2022-01-25 21:26:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 972 Свободного места на диске: 0
+INFO  2022-01-25 21:26:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom.txt
+INFO  2022-01-25 21:26:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:115) - Файл relkom.txt получен
+INFO  2022-01-25 21:32:10 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:32:20 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:32:20 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:32:20 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:32:20 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:32:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom.txt
+INFO  2022-01-25 21:32:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 972 Свободного места на диске: 0
+INFO  2022-01-25 21:32:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom.txt
+INFO  2022-01-25 21:32:23 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom.txt получен
+INFO  2022-01-25 21:32:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom.txt
+INFO  2022-01-25 21:32:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 972 Свободного места на диске: 0
+INFO  2022-01-25 21:32:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom.txt
+INFO  2022-01-25 21:32:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom.txt получен
+INFO  2022-01-25 21:33:17 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:33:25 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:33:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:33:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:33:25 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:34:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom2.txt
+INFO  2022-01-25 21:34:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6804 Свободного места на диске: 0
+INFO  2022-01-25 21:34:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom2.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom2.txt
+INFO  2022-01-25 21:34:50 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom2.txt получен
+INFO  2022-01-25 21:35:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom2.txt
+INFO  2022-01-25 21:35:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:35:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom2.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom2.txt
+INFO  2022-01-25 21:35:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom2.txt получен
+INFO  2022-01-25 21:36:00 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:36:11 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:36:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:36:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:36:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom2.txt
+INFO  2022-01-25 21:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom2.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom2.txt
+INFO  2022-01-25 21:36:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom2.txt получен
+ERROR 2022-01-25 21:36:40 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:123) - Connection reset
+INFO  2022-01-25 21:37:21 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:37:40 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:37:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:37:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:37:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:37:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom2.txt
+INFO  2022-01-25 21:37:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 197135630336
+INFO  2022-01-25 21:37:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom2.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom2.txt
+INFO  2022-01-25 21:38:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom2.txt получен
+INFO  2022-01-25 21:38:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:38:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:38:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:38:45 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+ERROR 2022-01-25 21:39:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:123) - Connection reset
+INFO  2022-01-25 21:39:27 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:39:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:39:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:39:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:39:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:39:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:39:32 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:40:07 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:40:50 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:41:06 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:41:06 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:41:06 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:41:06 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:41:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:41:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:41:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:42:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:42:40 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:42:43 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:42:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:42:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:42:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:42:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:42:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:42:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:44:03 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:44:08 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:44:14 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:44:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:44:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:44:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:44:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:44:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:44:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:44:42 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:47:14 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:47:22 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:47:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:47:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:47:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:47:34 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:47:34 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:47:34 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:49:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:49:49 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:50:09 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:50:09 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:50:09 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:50:09 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:50:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:50:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:50:11 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:51:39 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:52:30 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:52:44 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:52:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:52:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:52:44 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:52:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:52:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:52:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:52:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:53:53 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:54:08 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:54:08 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:54:08 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:54:08 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:54:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:54:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 6813 Свободного места на диске: 0
+INFO  2022-01-25 21:54:27 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 21:56:16 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 21:56:54 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 21:57:12 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 21:57:12 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 21:57:12 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 21:57:12 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 21:57:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 21:57:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-25 21:57:17 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 22:00:14 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:116) - Файл relkom3.txt получен
+INFO  2022-01-25 22:10:22 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 22:10:46 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 22:10:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 22:10:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 22:10:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 22:10:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 22:10:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-25 22:10:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 22:10:51 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Файл relkom3.txt получен
+INFO  2022-01-25 22:13:18 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-25 22:13:26 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-25 22:13:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-25 22:13:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-25 22:13:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-25 22:14:03 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-25 22:14:03 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-25 22:14:03 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-25 22:14:26 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Файл relkom3.txt получен
+INFO  2022-01-25 22:15:51 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:34:22 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:35:38 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:35:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:35:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:35:39 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:36:00 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:36:00 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:36:00 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 18:36:24 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Файл relkom3.txt получен
+INFO  2022-01-26 18:36:56 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:37:24 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:37:24 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:37:24 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:37:24 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:37:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:37:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:37:35 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 18:38:48 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Файл relkom3.txt получен
+ERROR 2022-01-26 18:39:34 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:128) - Connection reset
+INFO  2022-01-26 18:39:37 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:39:43 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:39:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:39:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:39:43 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:39:56 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:39:56 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:39:56 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 18:40:46 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Файл relkom3.txt получен
+INFO  2022-01-26 18:41:39 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:41:52 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:41:52 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:41:52 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:41:52 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:42:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:42:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:42:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+ERROR 2022-01-26 18:43:58 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:128) - Connection reset by peer: socket write error
+INFO  2022-01-26 18:44:01 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:44:22 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:44:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:44:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:44:22 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:44:33 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:44:33 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:44:33 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 18:45:05 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:121) - Файл relkom3.txt получен
+INFO  2022-01-26 18:46:27 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:46:38 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:46:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:46:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:46:38 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:46:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:46:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:46:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 18:46:41 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:122) - Файл relkom3.txt получен
+INFO  2022-01-26 18:47:07 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-26 18:47:07 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 0
+INFO  2022-01-26 18:47:07 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-26 18:47:08 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:122) - Файл SceneBuilder-8.5.0.exe получен
+INFO  2022-01-26 18:47:36 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:47:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:47:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:47:36 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:47:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-26 18:47:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 0
+INFO  2022-01-26 18:47:47 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+INFO  2022-01-26 18:47:48 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:122) - Файл SceneBuilder-8.5.0.exe получен
+INFO  2022-01-26 18:49:22 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:49:22 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:49:22 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:49:22 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:49:26 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 18:49:26 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 18:49:26 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 18:49:26 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:122) - Файл relkom3.txt получен
+INFO  2022-01-26 18:49:34 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:89) - SceneBuilder-8.5.0.exe
+INFO  2022-01-26 18:49:34 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:93) - 58097808 Свободного места на диске: 197077630976
+INFO  2022-01-26 18:49:34 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:94) - SceneBuilder-8.5.0.exe Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\SceneBuilder-8.5.0.exe
+ERROR 2022-01-26 18:50:44 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:129) - Connection reset
+INFO  2022-01-26 18:50:52 [main] Server.MainServ (MainServ.java:30) - Сервер запущен!
+INFO  2022-01-26 18:51:12 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:51:12 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:51:12 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:51:12 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:51:20 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:89) - Firefox  - 2017-03-29.pcv
+INFO  2022-01-26 18:51:20 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:93) - 370700826 Свободного места на диске: 0
+INFO  2022-01-26 18:51:20 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:94) - Firefox  - 2017-03-29.pcv Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Firefox  - 2017-03-29.pcv
+INFO  2022-01-26 18:51:34 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:122) - Файл Firefox  - 2017-03-29.pcv получен
+INFO  2022-01-26 18:53:43 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:53:43 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:53:43 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:53:43 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:89) - CS_za_24_cheasa_karla_rouz.rar
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:93) - 21465725 Свободного места на диске: 0
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:94) - CS_za_24_cheasa_karla_rouz.rar Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\CS_za_24_cheasa_karla_rouz.rar
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:122) - Файл CS_za_24_cheasa_karla_rouz.rar получен
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:89) - jg$
+�%!6���%!�f���zi���hyq[�
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:93) - -8735695554708614887 Свободного места на диске: 0
+INFO  2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:94) - jg$
+�%!6���%!�f���zi���hyq[� Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\jg$
+�%!6���%!�f���zi���hyq[�
+ERROR 2022-01-26 18:53:53 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:129) - Синтаксическая ошибка в имени файла, имени папки или метке тома
+INFO  2022-01-26 18:59:06 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 18:59:06 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 18:59:06 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 18:59:06 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 18:59:16 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:89) - Kulinaria20071226.chm
+INFO  2022-01-26 18:59:16 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:93) - 200881539 Свободного места на диске: 0
+INFO  2022-01-26 18:59:16 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:94) - Kulinaria20071226.chm Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Kulinaria20071226.chm
+INFO  2022-01-26 18:59:23 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:122) - Файл Kulinaria20071226.chm получен
+INFO  2022-01-26 19:00:10 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 19:00:10 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 19:00:10 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 19:00:17 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 19:00:35 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:89) - Kulinaria20071226.chm
+INFO  2022-01-26 19:00:35 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:93) - 200881539 Свободного места на диске: 0
+INFO  2022-01-26 19:00:35 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:94) - Kulinaria20071226.chm Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Kulinaria20071226.chm
+INFO  2022-01-26 19:00:54 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:122) - Файл Kulinaria20071226.chm получен
+INFO  2022-01-26 19:02:14 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 19:02:19 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 19:02:19 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 19:02:19 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 19:06:54 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:89) - Kulinaria20071226.chm
+INFO  2022-01-26 19:06:54 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:93) - 200881539 Свободного места на диске: 0
+INFO  2022-01-26 19:06:54 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:94) - Kulinaria20071226.chm Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\Kulinaria20071226.chm
+INFO  2022-01-26 19:07:08 [pool-2-thread-4] Server.ClientHandler$1 (ClientHandler.java:122) - Файл Kulinaria20071226.chm получен
+INFO  2022-01-26 19:19:38 [main] Server.MainServ (MainServ.java:33) - Клиент подключился!
+INFO  2022-01-26 19:19:38 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:56) - 6
+INFO  2022-01-26 19:19:38 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:58) - 4
+INFO  2022-01-26 19:19:42 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:70) - login1 106438208
+INFO  2022-01-26 19:19:54 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:89) - relkom3.txt
+INFO  2022-01-26 19:19:54 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:93) - 2771 Свободного места на диске: 0
+INFO  2022-01-26 19:19:54 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:94) - relkom3.txt Путь сохранения: D:\files\Java\GeekBrains\Java NS\Lesson1\HomeWork\relkom3.txt
+INFO  2022-01-26 19:19:54 [pool-2-thread-5] Server.ClientHandler$1 (ClientHandler.java:122) - Файл relkom3.txt получен
